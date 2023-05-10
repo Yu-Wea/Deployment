@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable_tfl_logo1.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/drawable/tfl_logo1.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable_ic_plus.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable_icn_chevron_up1.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/drawable/icn_chevron_up1.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable_ic_minus.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/drawable/ic_minus.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-merged_res-25:/layout_controls_bottom_sheet.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-27:/layout/controls_bottom_sheet.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable_interface1_background.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/drawable/interface1_background.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable_interface2_background.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/drawable/interface2_background.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable_tfl_logo.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/drawable/tfl_logo.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/layout_item_probability.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/layout/item_probability.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/layout_controls_bottom_sheet_bak.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/layout/controls_bottom_sheet_bak.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable_icn_chevron_up.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/drawable/icn_chevron_up.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/layout_activity_second.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/layout/activity_second.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/layout_fragment_audio.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/layout/fragment_audio.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/navigation_nav_graph.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable_test.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/drawable/test.png"
+    },
+    {
+        "merged": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-merged_res-25:/drawable-v24_tfl_logo.png.flat",
+        "source": "/Users/zhangyuwei/.gradle/daemon/7.6.1/org.tensorflow.lite.examples.audio.app-main-27:/drawable-v24/tfl_logo.png"
+    }
+]

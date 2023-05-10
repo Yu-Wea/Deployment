@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12
+MERGED from [androidx.databinding:viewbinding:7.3.0] /Users/zhangyuwei/.gradle/caches/transforms-3/dd9ea2e79a6566c4b89758800e0a29d6/transformed/viewbinding-7.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/cc7de2ba1976159b4e228ca29435e6a9/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/zhangyuwei/.gradle/caches/transforms-3/272bc5c4c925cffc5865ffd49261e8d9/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/1f8283bd82f5cb24c09de692503f581d/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/49815fc5fd844f78ce6d79a974a5b93a/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/68444ccfdedec1dd5d3ee234e2f8d442/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/1c0cba4f161e8c94fe893d1bbe908133/transformed/activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/zhangyuwei/.gradle/caches/transforms-3/8d9cac1b9533b113e95651b63603785f/transformed/core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/ce54a2e475a58f6efbecca8e954752aa/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/zhangyuwei/.gradle/caches/transforms-3/67a170fabc83de8436223d85ade2f1fe/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zhangyuwei/.gradle/caches/transforms-3/6b124e0aa8e01fbc135fcd8955b77f14/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/fbbd72c200b2b70d5d07ff47e2d66f72/transformed/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/453c40afefab5e12ea4d3e522c9f7038/transformed/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/d3655567db485ec9dc09e8403b6c8e49/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/996b70f7f51c7d2f43ebc72461a01301/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/4644bf5642bcace1a42a85787e714792/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/d0544d0c066d4e49e40068aa754071d0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/9b31834e373f3f65401694ad71757c63/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-task-audio:0.4.0] /Users/zhangyuwei/.gradle/caches/transforms-3/536b68468ddc9c1b14d22795af883a17/transformed/tensorflow-lite-task-audio-0.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/c06cc0e5cd50ed22d3e8ee31dea264af/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/zhangyuwei/.gradle/caches/transforms-3/839d6d093529c875824228eda1b09473/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/538f754e865431254b21aaff21f03fed/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/zhangyuwei/.gradle/caches/transforms-3/b876fc1b5a136dff415d9e75de315df2/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/b20058d75153fa48c2bd6a74d4f868b2/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/4c55929cb9fa2b1a600efd9658665292/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/d05cff5e0f42e73581abaac96c45ba75/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/dce6e9c401e2c57a3bd8e54acc8c4681/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/1811cabaa1f604c121632f96a4d18118/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/73779e5c708a607837185dd0488d2264/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/d2389c667575c2e71c70371629328a35/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/7bf56c984aea044f219905e02463e0fb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/4e4d10b8e0e80b4f6e37b65304da77e2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/zhangyuwei/.gradle/caches/transforms-3/69319912bb538a3364c0de6896d494ed/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/86af0e70213463b57fb15a2a55ab5127/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/zhangyuwei/.gradle/caches/transforms-3/57cf4f46914f6d7f8eecc65914844e3a/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/fcdb3a965de5781841f052faa1e906c2/transformed/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /Users/zhangyuwei/.gradle/caches/transforms-3/bc8bbdf3d077a1ee02d509b94b09276f/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/6fff5a63a21a41bd252a3042d40beacb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/16d7746a7519ccae631fc0c70c6d611c/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/59cafe50a3d318151a33eea8380572b4/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/c4ec58e7582040b67c193381793d7b39/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/4cdde90d8fc717fd2fcfff5383293066/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/66f98ea7a375a2d4ec0edd82e8e33bd8/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/zhangyuwei/.gradle/caches/transforms-3/d2a0c8c6bef146fc6e72415408be6add/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/7ef4608c68ed5585fa3eda5311a3efb9/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/zhangyuwei/.gradle/caches/transforms-3/b195f6c399e994e7a22e8ba478c050b1/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/83155438765b6e86842258b7390bf604/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/3b6b04a8b53dd2862bcef125a6fb9806/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/866d236cc8100bca8f1f710ce18f4c92/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/39fb55e213b08533f3da4733cd9ab94d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/0bcacfd43edf3b2c96900a579413b98c/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/698bcd842e9e0616a699ba8f2442a12e/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /Users/zhangyuwei/.gradle/caches/transforms-3/ea02bb193f7b10e401377d6b7bd40ae8/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /Users/zhangyuwei/.gradle/caches/transforms-3/98c6a6351afe72fa55e99467128ffc49/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/88788e19cd65d3628722429d572c843e/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/zhangyuwei/.gradle/caches/transforms-3/1458ac4644b726f7ed1fbcef2b2ae674/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/zhangyuwei/.gradle/caches/transforms-3/8778de8bb4729e9fec7b10ae52391ba4/transformed/image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12
+	package
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:18:5-49
+		INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12
+		INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12
+		INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:20:22-68
+application
+ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:22:5-47:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zhangyuwei/.gradle/caches/transforms-3/6b124e0aa8e01fbc135fcd8955b77f14/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zhangyuwei/.gradle/caches/transforms-3/6b124e0aa8e01fbc135fcd8955b77f14/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/453c40afefab5e12ea4d3e522c9f7038/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/453c40afefab5e12ea4d3e522c9f7038/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.6.0] /Users/zhangyuwei/.gradle/caches/transforms-3/bc8bbdf3d077a1ee02d509b94b09276f/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/zhangyuwei/.gradle/caches/transforms-3/bc8bbdf3d077a1ee02d509b94b09276f/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/zhangyuwei/.gradle/caches/transforms-3/d2a0c8c6bef146fc6e72415408be6add/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/zhangyuwei/.gradle/caches/transforms-3/d2a0c8c6bef146fc6e72415408be6add/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /Users/zhangyuwei/.gradle/caches/transforms-3/ea02bb193f7b10e401377d6b7bd40ae8/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /Users/zhangyuwei/.gradle/caches/transforms-3/ea02bb193f7b10e401377d6b7bd40ae8/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/zhangyuwei/.gradle/caches/transforms-3/1458ac4644b726f7ed1fbcef2b2ae674/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/zhangyuwei/.gradle/caches/transforms-3/1458ac4644b726f7ed1fbcef2b2ae674/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/zhangyuwei/.gradle/caches/transforms-3/8778de8bb4729e9fec7b10ae52391ba4/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/zhangyuwei/.gradle/caches/transforms-3/8778de8bb4729e9fec7b10ae52391ba4/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/zhangyuwei/.gradle/caches/transforms-3/bc8bbdf3d077a1ee02d509b94b09276f/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:25:9-41
+	android:roundIcon
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:29:9-40
+	android:taskAffinity
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:28:9-32
+activity#org.tensorflow.lite.examples.audio.MainActivity
+ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:30:9-39:20
+	android:screenOrientation
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:33:13-49
+	android:exported
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:31:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:37:27-74
+activity#org.tensorflow.lite.examples.audio.SecondActivity
+ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:42:9-44:20
+	android:exported
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:42:19-83
+uses-sdk
+INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.3.0] /Users/zhangyuwei/.gradle/caches/transforms-3/dd9ea2e79a6566c4b89758800e0a29d6/transformed/viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.0] /Users/zhangyuwei/.gradle/caches/transforms-3/dd9ea2e79a6566c4b89758800e0a29d6/transformed/viewbinding-7.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/cc7de2ba1976159b4e228ca29435e6a9/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/cc7de2ba1976159b4e228ca29435e6a9/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/zhangyuwei/.gradle/caches/transforms-3/272bc5c4c925cffc5865ffd49261e8d9/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/zhangyuwei/.gradle/caches/transforms-3/272bc5c4c925cffc5865ffd49261e8d9/transformed/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/1f8283bd82f5cb24c09de692503f581d/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/1f8283bd82f5cb24c09de692503f581d/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/49815fc5fd844f78ce6d79a974a5b93a/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/49815fc5fd844f78ce6d79a974a5b93a/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/68444ccfdedec1dd5d3ee234e2f8d442/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/68444ccfdedec1dd5d3ee234e2f8d442/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/1c0cba4f161e8c94fe893d1bbe908133/transformed/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/1c0cba4f161e8c94fe893d1bbe908133/transformed/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/zhangyuwei/.gradle/caches/transforms-3/8d9cac1b9533b113e95651b63603785f/transformed/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/zhangyuwei/.gradle/caches/transforms-3/8d9cac1b9533b113e95651b63603785f/transformed/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/ce54a2e475a58f6efbecca8e954752aa/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/ce54a2e475a58f6efbecca8e954752aa/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/zhangyuwei/.gradle/caches/transforms-3/67a170fabc83de8436223d85ade2f1fe/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/zhangyuwei/.gradle/caches/transforms-3/67a170fabc83de8436223d85ade2f1fe/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zhangyuwei/.gradle/caches/transforms-3/6b124e0aa8e01fbc135fcd8955b77f14/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/zhangyuwei/.gradle/caches/transforms-3/6b124e0aa8e01fbc135fcd8955b77f14/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/fbbd72c200b2b70d5d07ff47e2d66f72/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/fbbd72c200b2b70d5d07ff47e2d66f72/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/453c40afefab5e12ea4d3e522c9f7038/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/453c40afefab5e12ea4d3e522c9f7038/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/d3655567db485ec9dc09e8403b6c8e49/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/d3655567db485ec9dc09e8403b6c8e49/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/996b70f7f51c7d2f43ebc72461a01301/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/996b70f7f51c7d2f43ebc72461a01301/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/4644bf5642bcace1a42a85787e714792/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/4644bf5642bcace1a42a85787e714792/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/d0544d0c066d4e49e40068aa754071d0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/d0544d0c066d4e49e40068aa754071d0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/9b31834e373f3f65401694ad71757c63/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/9b31834e373f3f65401694ad71757c63/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-task-audio:0.4.0] /Users/zhangyuwei/.gradle/caches/transforms-3/536b68468ddc9c1b14d22795af883a17/transformed/tensorflow-lite-task-audio-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-audio:0.4.0] /Users/zhangyuwei/.gradle/caches/transforms-3/536b68468ddc9c1b14d22795af883a17/transformed/tensorflow-lite-task-audio-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/c06cc0e5cd50ed22d3e8ee31dea264af/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/c06cc0e5cd50ed22d3e8ee31dea264af/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/zhangyuwei/.gradle/caches/transforms-3/839d6d093529c875824228eda1b09473/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/zhangyuwei/.gradle/caches/transforms-3/839d6d093529c875824228eda1b09473/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/538f754e865431254b21aaff21f03fed/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/538f754e865431254b21aaff21f03fed/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/zhangyuwei/.gradle/caches/transforms-3/b876fc1b5a136dff415d9e75de315df2/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/zhangyuwei/.gradle/caches/transforms-3/b876fc1b5a136dff415d9e75de315df2/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/b20058d75153fa48c2bd6a74d4f868b2/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/b20058d75153fa48c2bd6a74d4f868b2/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/4c55929cb9fa2b1a600efd9658665292/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/4c55929cb9fa2b1a600efd9658665292/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/d05cff5e0f42e73581abaac96c45ba75/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/d05cff5e0f42e73581abaac96c45ba75/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/dce6e9c401e2c57a3bd8e54acc8c4681/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/dce6e9c401e2c57a3bd8e54acc8c4681/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/1811cabaa1f604c121632f96a4d18118/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/1811cabaa1f604c121632f96a4d18118/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/73779e5c708a607837185dd0488d2264/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/73779e5c708a607837185dd0488d2264/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/d2389c667575c2e71c70371629328a35/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/d2389c667575c2e71c70371629328a35/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/7bf56c984aea044f219905e02463e0fb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/7bf56c984aea044f219905e02463e0fb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/4e4d10b8e0e80b4f6e37b65304da77e2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/4e4d10b8e0e80b4f6e37b65304da77e2/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/zhangyuwei/.gradle/caches/transforms-3/69319912bb538a3364c0de6896d494ed/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/zhangyuwei/.gradle/caches/transforms-3/69319912bb538a3364c0de6896d494ed/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/86af0e70213463b57fb15a2a55ab5127/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/86af0e70213463b57fb15a2a55ab5127/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/zhangyuwei/.gradle/caches/transforms-3/57cf4f46914f6d7f8eecc65914844e3a/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/zhangyuwei/.gradle/caches/transforms-3/57cf4f46914f6d7f8eecc65914844e3a/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/fcdb3a965de5781841f052faa1e906c2/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/zhangyuwei/.gradle/caches/transforms-3/fcdb3a965de5781841f052faa1e906c2/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/zhangyuwei/.gradle/caches/transforms-3/bc8bbdf3d077a1ee02d509b94b09276f/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/zhangyuwei/.gradle/caches/transforms-3/bc8bbdf3d077a1ee02d509b94b09276f/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/6fff5a63a21a41bd252a3042d40beacb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/6fff5a63a21a41bd252a3042d40beacb/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/16d7746a7519ccae631fc0c70c6d611c/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/16d7746a7519ccae631fc0c70c6d611c/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/59cafe50a3d318151a33eea8380572b4/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/59cafe50a3d318151a33eea8380572b4/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/c4ec58e7582040b67c193381793d7b39/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/c4ec58e7582040b67c193381793d7b39/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/4cdde90d8fc717fd2fcfff5383293066/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/4cdde90d8fc717fd2fcfff5383293066/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/66f98ea7a375a2d4ec0edd82e8e33bd8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/66f98ea7a375a2d4ec0edd82e8e33bd8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/zhangyuwei/.gradle/caches/transforms-3/d2a0c8c6bef146fc6e72415408be6add/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/zhangyuwei/.gradle/caches/transforms-3/d2a0c8c6bef146fc6e72415408be6add/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/7ef4608c68ed5585fa3eda5311a3efb9/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/7ef4608c68ed5585fa3eda5311a3efb9/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/zhangyuwei/.gradle/caches/transforms-3/b195f6c399e994e7a22e8ba478c050b1/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/zhangyuwei/.gradle/caches/transforms-3/b195f6c399e994e7a22e8ba478c050b1/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/83155438765b6e86842258b7390bf604/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/83155438765b6e86842258b7390bf604/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/3b6b04a8b53dd2862bcef125a6fb9806/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/zhangyuwei/.gradle/caches/transforms-3/3b6b04a8b53dd2862bcef125a6fb9806/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/866d236cc8100bca8f1f710ce18f4c92/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/866d236cc8100bca8f1f710ce18f4c92/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/39fb55e213b08533f3da4733cd9ab94d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/39fb55e213b08533f3da4733cd9ab94d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/0bcacfd43edf3b2c96900a579413b98c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/0bcacfd43edf3b2c96900a579413b98c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/698bcd842e9e0616a699ba8f2442a12e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zhangyuwei/.gradle/caches/transforms-3/698bcd842e9e0616a699ba8f2442a12e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /Users/zhangyuwei/.gradle/caches/transforms-3/98c6a6351afe72fa55e99467128ffc49/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /Users/zhangyuwei/.gradle/caches/transforms-3/98c6a6351afe72fa55e99467128ffc49/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:4:3-71
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/88788e19cd65d3628722429d572c843e/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/zhangyuwei/.gradle/caches/transforms-3/88788e19cd65d3628722429d572c843e/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/zhangyuwei/.gradle/caches/transforms-3/1458ac4644b726f7ed1fbcef2b2ae674/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /Users/zhangyuwei/.gradle/caches/transforms-3/1458ac4644b726f7ed1fbcef2b2ae674/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/zhangyuwei/.gradle/caches/transforms-3/8778de8bb4729e9fec7b10ae52391ba4/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/zhangyuwei/.gradle/caches/transforms-3/8778de8bb4729e9fec7b10ae52391ba4/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+		MERGED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/zhangyuwei/Desktop/一定把部署搞出来/app/src/main/AndroidManifest.xml:17:1-49:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE
